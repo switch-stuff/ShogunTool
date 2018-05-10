@@ -14,7 +14,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyProduct("Shogun Tool")>
 <Assembly: AssemblyCopyright("Copyright ©SimonMKWii 2018")>
 <Assembly: AssemblyTrademark("")>
-
+<Assembly: AssemblyDownload 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
